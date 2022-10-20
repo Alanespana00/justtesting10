@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+button {
+    color: greenyellow;
+    font-weight: bold;
+    width: 200px;
+    height: 60px;
+    border-radius: 25px;
+    border-color: aqua;
+}
+#increment-btn {
+    background: orangered;
+}
